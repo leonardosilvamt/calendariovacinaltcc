@@ -1,0 +1,15 @@
+/**Para Tablet*/
+@media only screen and (max-width: 768px) {
+    footer #itens-footer{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+}
+
+/**Para Smart Phone**/
+@media only screen and (max-width: 480px) {
+    footer #itens-footer{
+        margin-top: 0px;
+        margin-bottom: 0px;
+    }
+}
